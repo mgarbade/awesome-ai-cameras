@@ -1,13 +1,3 @@
-# Cameras with attached hardware based neural network
-
-Some companies try to put convolutional neural networks directly onto hardware, attached to a camera sensor. The idea is great, and I assume we will see many more realisations of that idea in the future. Let's try to make this repository the place, where we gather all those devices collectively to keep an overview.
-One of the first works I found involves professor Piotr Dudek who seems to be long term commited to the idea. The advantages of such devices is nicely explained in a [video](https://www.youtube.com/watch?v=grlIwYMcmG0&t=69s&ab_channel=StanfordComputationalImagingLab) of his recent works:
-
- - high framerate / low bandwidth
- - low power consumption
- - no communication overhead
- - no programming
-
 # AI-Enhanced Cameras: Dedicated Hardware for On-Device Vision Processing
 
 Welcome to a dedicated space for exploring and cataloging cameras equipped with hardware-based neural networks. These devices integrate convolutional neural networks (CNNs) directly onto hardware, paired with a camera sensor, facilitating high-speed image processing with minimal power consumption and no need for extensive external data transmission.
@@ -22,7 +12,7 @@ Integrating AI directly into camera hardware allows for:
 ## Featured Devices
 ### SCAMP5 Pixel Processor Array - "A Camera that CNNs" (2019)
 - **Capabilities**: Primarily focused on simple tasks like digit recognition.
-- **Specifications**: [paper](https://arxiv.org/abs/1909.05647)
+- **Specifications**: [paper](https://arxiv.org/abs/1909.05647)[video](https://www.youtube.com/watch?v=grlIwYMcmG0&t=69s&ab_channel=StanfordComputationalImagingLab)
 
 ### SCAMP5 - PixelRNN (2024)
 - **Capabilities**: Supports hand gesture recognition, lip reading.
