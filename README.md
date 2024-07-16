@@ -34,6 +34,9 @@ Integrating AI directly into camera hardware allows for:
 - [website](https://developer.sony.com/imx500)
 - [video-human-pose-estimation](https://www.youtube.com/watch?v=V6ePnGZlFT8&ab_channel=lucanestola)
 
+## More Links
+- [Edge AI Vision Alliance] (https://www.edge-ai-vision.com/) is a website and community trying to bring together companies, customers and everyone interested in AI on edge devices
+
 ## Contributing
 We encourage the community to contribute by adding new devices or updating existing entries. Please provide detailed information including device capabilities, specifications, use cases, and official links.
 
