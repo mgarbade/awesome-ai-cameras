@@ -10,6 +10,9 @@ Integrating AI directly into camera hardware allows for:
 - **Simplified Deployment**: No advanced programming required, making it accessible for various applications.
 
 ## Devices
+### Akida by Brainchip
+[website](https://brainchip.com/akida-foundations/), [video](https://www.youtube.com/watch?v=yY_raEGgka0&ab_channel=EdgeAIandVisionAlliance)
+
 ### SCAMP5 Pixel Processor Array 
 **Capabilities**:
 - digit recognition, hand gesture recognition, lip reading
