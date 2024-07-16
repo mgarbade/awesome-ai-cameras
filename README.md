@@ -46,4 +46,4 @@ This list is maintained by community contributions and curated by Martin Garbade
 Join us in documenting the evolution of AI cameras and pushing the boundaries of what's possible with on-device processing!
 
 ## Tags
-ai, machine-learning, embedded-systems, hardware-acceleration, computer-vision
+`ai`, `machine-learning`, `embedded-systems`, `hardware-acceleration`, `computer-vision`
