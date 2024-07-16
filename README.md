@@ -44,3 +44,6 @@ We encourage the community to contribute by adding new devices or updating exist
 This list is maintained by community contributions and curated by Martin Garbade. Updates are made regularly to ensure accuracy and relevance.
 
 Join us in documenting the evolution of AI cameras and pushing the boundaries of what's possible with on-device processing!
+
+## Tags
+ai, machine-learning, embedded-systems, hardware-acceleration, computer-vision
