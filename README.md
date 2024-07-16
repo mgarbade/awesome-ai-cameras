@@ -19,7 +19,7 @@ Integrating AI directly into camera hardware allows for:
 - instead uses additions, substractions, binary operations (needs specialized CNN architecture)
 
 **Literature**:
-- "A Camera that CNNs" (2019) [paper](https://arxiv.org/abs/1909.05647)[video](https://www.youtube.com/watch?v=grlIwYMcmG0&t=69s&ab_channel=StanfordComputationalImagingLab)
+- "A Camera that CNNs" (2019) [paper](https://arxiv.org/abs/1909.05647), [video](https://www.youtube.com/watch?v=grlIwYMcmG0&t=69s&ab_channel=StanfordComputationalImagingLab)
 - PixelRNN (2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf)
 
 
