@@ -13,6 +13,14 @@ Integrating AI directly into camera hardware allows for:
 ### Akida by Brainchip
 [website](https://brainchip.com/akida-foundations/), [video](https://www.youtube.com/watch?v=yY_raEGgka0&ab_channel=EdgeAIandVisionAlliance)
 
+### IDS NXT family with built in FPGA / Ambarella
+TODO: research specs  
+[website](https://www.edge-ai-vision.com/2023/11/new-class-of-edge-ai-industrial-cameras-allows-ai-overlays-in-live-video-streams/)
+
+### Firefly-DL
+TODO: research specs  
+[website](https://www.flir.eu/products/firefly-dl/)
+
 ### SCAMP5 Pixel Processor Array 
 **Capabilities**:
 - digit recognition, hand gesture recognition, lip reading
